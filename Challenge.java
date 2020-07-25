@@ -1,7 +1,7 @@
  
 import java.util.Scanner; 
  
-public class Echo { 
+public class Challenge { 
  
 	public static void main(String args[]) { 
 		Scanner scanner = new Scanner(System.in); 
